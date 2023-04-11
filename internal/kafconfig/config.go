@@ -41,7 +41,6 @@ func New(clusters []internal.Cluster) Config {
 		clustercfgs = append(clustercfgs, &KafCluster{
 			Name:    name,
 			Brokers: c.Brokers,
-			Version: c.Version,
 		})
 	}
 
