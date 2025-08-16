@@ -7,7 +7,7 @@ import (
 	"github.com/birdayz/kaf/pkg/config"
 	"gopkg.in/yaml.v2"
 
-	"github.com/seruman/mskrc/internal"
+	"code.selman.me/mskrc/internal"
 )
 
 type (

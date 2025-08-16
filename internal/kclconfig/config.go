@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/BurntSushi/toml"
-	"github.com/seruman/mskrc/internal"
+	"code.selman.me/mskrc/internal"
 	kclclient "github.com/twmb/kcl/client"
 )
 

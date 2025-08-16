@@ -1,4 +1,4 @@
-module github.com/seruman/mskrc
+module code.selman.me/mskrc
 
 go 1.19
 

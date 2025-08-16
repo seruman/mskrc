@@ -16,10 +16,10 @@ import (
 	"github.com/peterbourgon/ff/v3/ffcli"
 	"golang.org/x/exp/slices"
 
-	"github.com/seruman/mskrc/internal"
-	"github.com/seruman/mskrc/internal/kafconfig"
-	"github.com/seruman/mskrc/internal/kafkactlconfig"
-	"github.com/seruman/mskrc/internal/kclconfig"
+	"code.selman.me/mskrc/internal"
+	"code.selman.me/mskrc/internal/kafconfig"
+	"code.selman.me/mskrc/internal/kafkactlconfig"
+	"code.selman.me/mskrc/internal/kclconfig"
 )
 
 func main() {

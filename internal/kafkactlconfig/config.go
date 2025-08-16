@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/seruman/mskrc/internal"
+	"code.selman.me/mskrc/internal"
 	"gopkg.in/yaml.v3"
 )
 
